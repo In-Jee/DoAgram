@@ -12,6 +12,6 @@ There are no restrictions on using the codes, but please be sure to cite the sou
 - DoAgram can be used as a dataset with an image file.
 
 ## References
-[1] In-Jee Jung, Wan-Ho Cho, A novel visual representation method for multi-dimensional sound scene analysis in source localization problem, Mechanical Systems and Signal Processing, 208, 110977 (2024), https://doi.org/10.1016/j.ymssp.2023.110977 <br/>
-[2] In-Jee Jung, Wan-Ho Cho, Proc. The Journal of Acoustical Society of Korea, Jeju, Korea (2024) (Submitted) </br>
-[3] In-Jee Jung, Wan-Ho Cho, Proc. Internoise 2024, Nantes, France (2024). (Submitted) </br>
+[1] In-Jee Jung, Wan-Ho Cho, A novel visual representation method for multi-dimensional sound scene analysis in source localization problem, _Mechanical Systems and Signal Processing_, 208, 110977 (2024), https://doi.org/10.1016/j.ymssp.2023.110977 <br/>
+[2] In-Jee Jung, Wan-Ho Cho, _Proc. The Journal of Acoustical Society of Korea_, Jeju, Korea (2024) (Submitted) </br>
+[3] In-Jee Jung, Wan-Ho Cho, _Proc. Internoise 2024_, Nantes, France (2024). (Submitted) </br>
