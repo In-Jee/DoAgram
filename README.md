@@ -13,5 +13,5 @@ There are no restrictions on using the codes, but please be sure to cite the sou
 
 ## References
 [1] In-Jee Jung, Wan-Ho Cho, A novel visual representation method for multi-dimensional sound scene analysis in source localization problem, Mechanical Systems and Signal Processing, 208, 110977 (2024), https://doi.org/10.1016/j.ymssp.2023.110977 <br/>
-[2] In-Jee Jung, Wan-Ho Cho, In proc. Journal of Acoustical Society of Korea, Jeju, Korea (2024) (Submitted) </br>
-[3] In-Jee Jung, Wan-Ho Cho, In proc. Internoise 2024, Nantes, France (2024). (Submitted) </br>
+[2] In-Jee Jung, Wan-Ho Cho, Proc. Journal of Acoustical Society of Korea, Jeju, Korea (2024) (Submitted) </br>
+[3] In-Jee Jung, Wan-Ho Cho, Proc. Internoise 2024, Nantes, France (2024). (Submitted) </br>
