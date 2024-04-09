@@ -5,7 +5,7 @@ This webpage provides code and related examples for DoAgram, a paper published i
 There are no restrictions on using the codes, but please be sure to cite the source and references when using it officially or applying the idea.
 
 ## Highlights
-- DoAgram is proposed for a visual representation method for multi-dimensional sound scene analysis.
+- DoAgram is a visual representation method for multi-dimensional sound scene analysis.
 - It represents the estimated localization result as RGB color channels.
 - Any localization algorithm can be applied for DoAgram encoding in preprocessing.
 - It is Human-interpretable dataset by using reference colormap.
