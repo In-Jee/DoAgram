@@ -1,5 +1,6 @@
 # DoAgram
-
+![1-s2 0-S0888327023008853-ga1_lrg](https://github.com/In-Jee/DoAgram/assets/166530619/36501383-584e-4312-9bd8-27697a57cc16)
+[1]
 
 ## Highlights
 - DoAgram is proposed for a visual representation method for multi-dimensional sound scene analysis.
