@@ -1,5 +1,6 @@
 # DoAgram
-![1-s2 0-S0888327023008853-ga1_lrg](https://github.com/In-Jee/DoAgram/assets/166530619/36501383-584e-4312-9bd8-27697a57cc16)
+![graphical_abstract_MSSP](https://github.com/In-Jee/DoAgram/assets/166530619/9165dde2-7edb-4bbf-bc0f-236dc271ef64)
+
 
 This webpage provides code and related examples for DoAgram, a paper published in MSSP in 2024 [1].
 There are no restrictions on using the codes, but please be sure to cite the source and references when using it officially or applying the idea.
