@@ -2,8 +2,8 @@
 ![graphical_abstract_MSSP](https://github.com/In-Jee/DoAgram/assets/166530619/9165dde2-7edb-4bbf-bc0f-236dc271ef64)
 
 
-This webpage provides code and related examples for DoAgram, a paper published in MSSP in 2024 [1].
-There are no restrictions on using the codes, but please be sure to cite the source and references when using it officially or applying the idea.
+- This webpage provides code and related examples for DoAgram, a paper published in MSSP in 2024 [1].
+- There are no restrictions on using the codes, but please be sure to cite the source and references when using it officially or applying the idea.
 
 ## Highlights
 - DoAgram is a visual representation method for multi-dimensional sound scene analysis.
